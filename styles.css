@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Magistrade;
+    src: url(font/Magistriens-Regular.ttf);
+}
+
+*{text-decoration: none;}
+
+body{
+    background-color: #000731;
+    font-family: Arial;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background-color: #001d31;
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    font-family: Magistrade;
+    font-size: 3em;
+}
+
+.reveal1, .reveal2, .reveal3, .reveal4, .reveal5{
+    display: none;
+}
