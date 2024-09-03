@@ -28,3 +28,8 @@ p{
 .reveal0, .reveal1, .reveal2, .reveal3, .reveal4{
     display: none;
 }
+
+.reveal0, .reveal1, .reveal2, .reveal3, .reveal4, .reveal5 img{
+    width: 200px;
+    height: auto;
+}
